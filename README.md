@@ -5,6 +5,7 @@ Kosmos, The All-in-One Package
 This handy All-in-One package includes everything you need to run Hekate / Atmosphere with some extra patches to enhance your experience.
 
 ## [Join us on Discord](https://discord.gg/qbRAuy7)
+## [Donations](https://www.patreon.com/atlasnx)
 
 ## Features
 * Up-to-date package
@@ -29,7 +30,7 @@ This handy All-in-One package includes everything you need to run Hekate / Atmos
 
 ## How to use
 1. Download [Hekate](https://github.com/CTCaer/hekate/releases) or use the payload that comes with the package
-2. Download the [latest release](https://github.com/tumGER/Kosmos/releases) and extract it to the root of your Switch SD card
+2. Download the [latest release](https://github.com/AtlasNX/Kosmos/releases) and extract it to the root of your Switch SD card
 3. Start hekate through e.g. [Fusée Gelée](https://github.com/reswitched/fusee-launcher), [TegraRcmSmash](https://switchtools.sshnuke.net/) or [WebCFWLoader](https://elijahzawesome.github.io/web-cfw-loader/)
 4. ???
 5. Profit!
@@ -43,3 +44,5 @@ This handy All-in-One package includes everything you need to run Hekate / Atmos
 * [KosmosUpdater](https://github.com/StevenMattera/SDFilesUpdater)
 * [Sys-FTPD](https://github.com/jakibaki/sys-ftpd)
 * [Checkpoint](https://github.com/BernardoGiordano/Checkpoint)
+* [CFW-Settings](https://github.com/AtlasNX/CFW-Settings)
+* [Ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/)
